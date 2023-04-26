@@ -1,0 +1,19 @@
+{
+  "alpine": {
+    "title": "Santosh Blog",
+    "description": "Writing boring stuffs that I know",
+    "footer": {
+      "credits": {
+        "text": "Santosh Bhandari",
+        "repository": "https://www.github.com/TheLearneer"
+      },
+      "navigation": false,
+      "message": ""
+    },
+    "socials": {
+      "twitter": "bsantosh909",
+      "instagram": "bsantosh909",
+      "github": "TheLearneer"
+    }
+  }
+}
